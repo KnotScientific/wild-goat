@@ -17,6 +17,8 @@ A Simple HTML Document
 
 <p>It only has two paragraphs</p>
 
+<p>It only has two paragraphs</p>
+
 </body>
 
 </html>
