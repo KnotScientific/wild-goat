@@ -20,7 +20,6 @@ body {
   height: 500px;
   width: 500px;
   border-radius:25%;
-  margin: auto;
 }
 .container {
     position: relative;
@@ -29,7 +28,6 @@ body {
 }
 
 .image {
-  position: absolute;
   background-color: transparent;
   opacity: 1;
   width: 100%;
