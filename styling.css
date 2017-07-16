@@ -1,9 +1,6 @@
 
 body {
-  @font-face {
-  font-family: 'Lemon/Milk';
-  src: url('http://www.fontsaddict.com/fontface/lemonmilk.ttf');
-}
+    font-family: 'Lemon/Milk';
   font-size: 34px;
   color: white;
   line-height: 1.6;
