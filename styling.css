@@ -28,6 +28,7 @@ body {
 }
 
 .image {
+  background-color: transparent;
   opacity: 1;
   display: block;
   width: 100%;
