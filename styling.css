@@ -1,5 +1,5 @@
 
-body {
+.h1 {
     font-family: 'Lemon/Milk';
   font-size: 34px;
   color: white;
@@ -11,7 +11,7 @@ body {
   color: snow;
   text-align: center;
 }
-.p2{
+.h2{
   font-family: 'Ekushey Godhuli Normal';  
   font-size: 34px;
   color: snow;
