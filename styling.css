@@ -1,23 +1,11 @@
 body {
   font-family: 'Lemon/Milk';  
   font-size: 24px;
-  color: white;
   line-height: 1.6;
   padding-top: 10px;
   padding-bottom: 10px;
   background-color: darkslategrey;
   padding: 30px;
-  color: snow;
+  color: lightblue;
   text-align: center;
-}
-h2{
-  font-family: 'Ekushey Ghorautra';  
-  font-size: 34px;
-  color: snow;
-      line-height: 1.6;
-  padding-top: 10px;
-  padding-bottom: 10px;
-      padding: 30px;
-  text-align: center;
-
 }
