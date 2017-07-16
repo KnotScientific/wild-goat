@@ -30,7 +30,6 @@ body {
 .image {
   background-color: transparent;
   opacity: 1;
-  display: block;
   width: 100%;
   height: auto;
   transition: .5s ease;
