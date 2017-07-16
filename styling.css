@@ -1,3 +1,4 @@
+
 body {
   font-family: Helvetica, arial, sans-serif;
   font-size: 34px;
@@ -8,6 +9,7 @@ body {
   background-color: darkslategrey;
   padding: 30px;
   color: snow;
+  text-align: center;
 }
 
 body > *:first-child {
