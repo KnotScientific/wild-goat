@@ -27,6 +27,7 @@ body {
 .container {
     position: relative;
     width: 50%;
+  margin: auto;
 }
 
 .image {
