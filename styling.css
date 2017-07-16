@@ -50,6 +50,9 @@ body {
 .container:hover .image {
   opacity: 0.3;
 }
+.container:hover .pivture {
+  opacity: 0.3;
+}
 
 .container:hover .middle {
   opacity: 1;
