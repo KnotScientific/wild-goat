@@ -32,9 +32,6 @@ margin-right: auto;
 .image {
   opacity: 1;
   display: block;
-    margin: auto;
-  width: 100px;
-  height: 100px;
   transition: .5s ease;
   backface-visibility: hidden;
   background-color:transparent;
