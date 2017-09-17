@@ -9,7 +9,7 @@ body {
 .text1
 {
   font-family: 'Lemon/Milk';  
-  font-size : 20px;
+  font-size : 2em;
   color : rgb(255, 255, 255);
   opacity : 1.0;
 }
