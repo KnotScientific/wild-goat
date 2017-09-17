@@ -84,7 +84,7 @@ body {
   91% { opacity: 0.1; }
 }
 .myButton{
-    background:url(wild-goat/hoernled-1.png) no-repeat;
+    background:url(hoernled-1.png) no-repeat;
     cursor:pointer;
     border:none;
     width:30em;
@@ -94,7 +94,7 @@ body {
 
 .myButton:active 
 {   
-    background:url(wild-goat/hoernled-1.png) no-repeat;
+    background:url(hoernled-1.png) no-repeat;
         width:29em; 
     height:29em;
     background-size: contain;
