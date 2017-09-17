@@ -2,14 +2,14 @@ body {
     line-height: 1;
     padding-top: 10px;
     padding-bottom: 10px;
-    background-color: #E1E8CA;
+    background-color: #CF6766;
     padding: 30px;
     text-align: center;
 }
 .text1 {
     font-family: 'Lemon/Milk';
     font-size: 2em;
-    color: rgb(255, 255, 255);
+    color: #031424;
     opacity: 1.0;
       animation: blinker 7s linear infinite;
 
@@ -17,7 +17,7 @@ body {
 .text2 {
     font-family: 'Lemon/Milk';
     font-size: 2em;
-    color: rgb(255, 255, 255);
+    color: #031424;
     opacity: 1.0;
   animation: blinker2 7s linear infinite;
 
@@ -25,7 +25,7 @@ body {
 .text3 {
     font-family: 'Lemon/Milk';
     font-size: 2em;
-    color: rgb(255, 255, 255);
+    color: #031424;
     opacity: 1.0;
   animation: blinker3 7s linear infinite;
 
@@ -33,7 +33,7 @@ body {
 .text4 {
     font-family: 'Lemon/Milk';
     font-size: 2em;
-    color: rgb(255, 255, 255);
+    color: #031424;
     opacity: 1.0;
   animation: blinker4 7s linear infinite;
 
@@ -41,7 +41,7 @@ body {
 .text5 {
     font-family: 'Lemon/Milk';
     font-size: 2em;
-    color: rgb(255, 255, 255);
+    color: #031424;
     opacity: 1.0;
   animation: blinker5 7s linear infinite;
 
@@ -49,7 +49,7 @@ body {
 .text6 {
     font-family: 'Lemon/Milk';
     font-size: 2em;
-    color: rgb(255, 255, 255);
+    color: #031424;
     opacity: 1.0;
   animation: blinker6 7s linear infinite;
 
@@ -57,7 +57,7 @@ body {
 .text7 {
     font-family: 'Lemon/Milk';
     font-size: 2em;
-    color: rgb(255, 255, 255);
+    color: #031424;
     opacity: 1.0;
       animation: blinker7 7s linear infinite;
 
@@ -82,4 +82,16 @@ body {
 }
 @keyframes blinker7 {  
   91% { opacity: 0.1; }
+}
+.myButton{
+    background:url(E:/git/wild-goat/hoernled-1.png) no-repeat;
+    cursor:pointer;
+    border:none;
+    width:3em;
+    height:3em;
+}
+
+.myButton:active  /* use Dot here */
+{   
+    background:url(E:/git/wild-goat/hoernled-1.png) no-repeat;
 }
