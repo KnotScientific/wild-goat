@@ -98,4 +98,9 @@ body {
         width:29em;
     height:29em;
     background-size: contain;
+
+}
+
+.myButton:focus {     
+    background-color:yellow;    
 }
