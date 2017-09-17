@@ -1,5 +1,10 @@
 body {
-
+  line-height: 1.6;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color:#E1E8CA;
+  padding: 30px;
+  text-align: center;
 }
 
 .text1
