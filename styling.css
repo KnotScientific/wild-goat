@@ -95,7 +95,7 @@ body {
 .myButton:active  /* use Dot here */
 {   
     background:url(E:/git/wild-goat/hoernled-1.png) no-repeat;
-        width:29em;
+        width:29em; 
     height:29em;
     background-size: contain;
 }
