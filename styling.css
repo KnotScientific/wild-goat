@@ -9,7 +9,7 @@ body {
 }
 .text1 {
 font-family: 'Libre Barcode 39 Text';
-    font-size: 2em;
+    font-size: 4em;
     color: #031424;
     opacity: 1.0;
       animation: blinker 7s linear infinite;
@@ -17,28 +17,28 @@ font-family: 'Libre Barcode 39 Text';
 }
 .text2 {
 font-family: 'Libre Barcode 39 Text';
-    font-size: 2em;
+    font-size: 4em;
     color: #031424;
     opacity: 1.0;
   animation: blinker2 7s linear infinite;
 }
 .text3 {
     font-family: 'Libre Barcode 39 Text';
-    font-size: 2em;
+    font-size: 4em;
     color: #031424;
     opacity: 1.0;
   animation: blinker3 7s linear infinite;
 }
 .text4 {
     font-family: 'Libre Barcode 39 Text';
-    font-size: 2em;
+    font-size: 4em;
     color: #031424;
     opacity: 1.0;
   animation: blinker4 7s linear infinite;
 }
 .text5 {
     font-family: 'Libre Barcode 39 Text';
-    font-size: 2em;
+    font-size: 4em;
     color: #031424;
     opacity: 1.0;
   animation: blinker5 7s linear infinite;
@@ -46,7 +46,7 @@ font-family: 'Libre Barcode 39 Text';
 }
 .text6 {
     font-family: 'Libre Barcode 39 Text';
-    font-size: 2em;
+    font-size: 4em;
     color: #031424;
     opacity: 1.0;
   animation: blinker6 7s linear infinite;
@@ -54,7 +54,7 @@ font-family: 'Libre Barcode 39 Text';
 }
 .text7 {
     font-family: 'Libre Barcode 39 Text';
-    font-size: 2em;
+    font-size: 4em;
     color: #031424;
     opacity: 1.0;
       animation: blinker7 7s linear infinite;
