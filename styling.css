@@ -1,11 +1,3 @@
-@font-face {
-    font-family: 'lemonmilkregular';
-    src: url('lemonmilk-webfont.woff2') format('woff2'),
-         url('lemonmilk-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
 body {
     line-height: 1;
     padding-top: 10px;
@@ -13,71 +5,60 @@ body {
     background-color: #CF6766;
     padding: 30px;
     text-align: center;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+
 }
 .text1 {
-    font-family: 'Lemon/Milk';
+font-family: 'Libre Barcode 39 Text';
     font-size: 2em;
     color: #031424;
     opacity: 1.0;
       animation: blinker 7s linear infinite;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+
 }
 .text2 {
-    font-family: 'Lemon/Milk';
+font-family: 'Libre Barcode 39 Text';
     font-size: 2em;
     color: #031424;
     opacity: 1.0;
   animation: blinker2 7s linear infinite;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
 }
 .text3 {
-    font-family: 'Lemon/Milk';
+    font-family: 'Libre Barcode 39 Text';
     font-size: 2em;
     color: #031424;
     opacity: 1.0;
   animation: blinker3 7s linear infinite;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
 }
 .text4 {
-    font-family: 'Lemon/Milk';
+    font-family: 'Libre Barcode 39 Text';
     font-size: 2em;
     color: #031424;
     opacity: 1.0;
   animation: blinker4 7s linear infinite;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
 }
 .text5 {
-    font-family: 'Lemon/Milk';
+    font-family: 'Libre Barcode 39 Text';
     font-size: 2em;
     color: #031424;
     opacity: 1.0;
   animation: blinker5 7s linear infinite;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+
 }
 .text6 {
-    font-family: 'Lemon/Milk';
+    font-family: 'Libre Barcode 39 Text';
     font-size: 2em;
     color: #031424;
     opacity: 1.0;
   animation: blinker6 7s linear infinite;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+
 }
 .text7 {
-    font-family: 'Lemon/Milk';
+    font-family: 'Libre Barcode 39 Text';
     font-size: 2em;
     color: #031424;
     opacity: 1.0;
       animation: blinker7 7s linear infinite;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+
 }
 @keyframes blinker {  
   13% { opacity: 0.1; }
