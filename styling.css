@@ -8,7 +8,7 @@ body {
 
 }
 .text1 {
-font-family: 'Libre Barcode 39 Text';
+font-family: 'Libre Barcode 39 Text',bold;
     font-size: 4em;
     color: #031424;
     opacity: 1.0;
@@ -16,28 +16,28 @@ font-family: 'Libre Barcode 39 Text';
 
 }
 .text2 {
-font-family: 'Libre Barcode 39 Text';
+font-family: 'Libre Barcode 39 Text',bold;
     font-size: 4em;
     color: #031424;
     opacity: 1.0;
   animation: blinker2 7s linear infinite;
 }
 .text3 {
-    font-family: 'Libre Barcode 39 Text';
+    font-family: 'Libre Barcode 39 Text',bold;
     font-size: 4em;
     color: #031424;
     opacity: 1.0;
   animation: blinker3 7s linear infinite;
 }
 .text4 {
-    font-family: 'Libre Barcode 39 Text';
+    font-family: 'Libre Barcode 39 Text',bold;
     font-size: 4em;
     color: #031424;
     opacity: 1.0;
   animation: blinker4 7s linear infinite;
 }
 .text5 {
-    font-family: 'Libre Barcode 39 Text';
+    font-family: 'Libre Barcode 39 Text',bold;
     font-size: 4em;
     color: #031424;
     opacity: 1.0;
@@ -45,7 +45,7 @@ font-family: 'Libre Barcode 39 Text';
 
 }
 .text6 {
-    font-family: 'Libre Barcode 39 Text';
+    font-family: 'Libre Barcode 39 Text',bold;
     font-size: 4em;
     color: #031424;
     opacity: 1.0;
@@ -53,7 +53,7 @@ font-family: 'Libre Barcode 39 Text';
 
 }
 .text7 {
-    font-family: 'Libre Barcode 39 Text';
+    font-family: 'Libre Barcode 39 Text',bold;
     font-size: 4em;
     color: #031424;
     opacity: 1.0;
