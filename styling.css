@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'lemonmilkregular';
+    src: url('lemonmilk-webfont.woff2') format('woff2'),
+         url('lemonmilk-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
 body {
     line-height: 1;
     padding-top: 10px;
