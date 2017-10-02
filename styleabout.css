@@ -152,8 +152,8 @@ user-select: none;
 
 }
 .homeButton:hover {
-    background-color: #000000; /* Green */
-    color: white;
+    background-color:white;
+    color:#000000;
 }
 .projButton{
 	    -webkit-transition-duration: 0.4s; /* Safari */
@@ -189,8 +189,8 @@ user-select: none;
 
 }
 .projButton:hover {
-    background-color: #000000; /* Green */
-    color: white;
+    background-color:white;
+    color:#000000;
 }
 .aboutButton{
 	    -webkit-transition-duration: 0.4s; /* Safari */
@@ -226,6 +226,6 @@ user-select: none;
 
 }
 .aboutButton:hover {
-    background-color: #000000; /* Green */
-    color: white;
+    background-color:white;
+    color:#000000;
 }
