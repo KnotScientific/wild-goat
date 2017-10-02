@@ -6,6 +6,11 @@ body {
     padding: 30px;
     text-align: start;
 }
+
+.sidebar {
+    position:absolute;
+}
+
 .text1 {
 font-family: 'Libre Barcode 39 Text',bold;
     font-size: 4em;
