@@ -1,4 +1,7 @@
 body {
+    background-image: url(linkedin.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
     line-height: 1;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -7,6 +10,9 @@ body {
     text-align: start;
 }
 
+.sidebar {
+    position:absolute;
+}
 
 .text1 {
 font-family: 'Libre Barcode 39 Text',bold;
