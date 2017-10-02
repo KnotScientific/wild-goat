@@ -152,7 +152,7 @@ user-select: none;
 
 }
 .homeButton:hover {
-    background-color:white;
+    background-color:#FFFFFF;
     color:#000000;
 }
 .projButton{
@@ -189,7 +189,7 @@ user-select: none;
 
 }
 .projButton:hover {
-    background-color:white;
+    background-color:#FFFFFF;
     color:#000000;
 }
 .aboutButton{
@@ -226,6 +226,6 @@ user-select: none;
 
 }
 .aboutButton:hover {
-    background-color:white;
+    background-color:#FFFFFF;
     color:#000000;
 }
