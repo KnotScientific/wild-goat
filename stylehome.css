@@ -1,4 +1,7 @@
 body {
+    background-image: url(linkedin.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
     line-height: 1;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -19,6 +22,7 @@ font-family: 'Libre Barcode 39 Text',bold;
       animation: blinker 7s linear infinite;
 
 }
+
 .text2 {
 font-family: 'Libre Barcode 39 Text',bold;
     font-size: 4em;
