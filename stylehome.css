@@ -16,6 +16,65 @@ body {
 padding-top: 100px;
 
 }
+.gitButton{
+    background:url(hoernled-1.png) no-repeat;
+    cursor:pointer;
+    border:none;
+    width:30em;
+    height:30em;
+    background-size: contain;
+     outline:none;
+    -webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-o-user-select: none;
+user-select: none;
+}
+
+.gitButton:active /*dfd*/
+{   
+    -webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-o-user-select: none;
+user-select: none;
+    background:url(hoernled-1.png) no-repeat;
+        width:29em; 
+    height:29em;
+    background-size: contain;
+     outline:none;
+
+}
+
+.ytButton{
+    background:url(hoernled-1.png) no-repeat;
+    cursor:pointer;
+    border:none;
+    width:30em;
+    height:30em;
+    background-size: contain;
+     outline:none;
+    -webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-o-user-select: none;
+user-select: none;
+}
+
+.ytButton:active /*dfd*/
+{   
+    -webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-o-user-select: none;
+user-select: none;
+    background:url(hoernled-1.png) no-repeat;
+        width:29em; 
+    height:29em;
+    background-size: contain;
+     outline:none;
+
+}
 
 .vid{
 text-align: center;
