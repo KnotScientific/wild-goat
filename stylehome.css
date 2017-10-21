@@ -14,8 +14,10 @@ body {
 .relative {
     position: relative;
 padding-top: 100px;
-float: left;
-
+	    .form_wrapper {
+        width: 200px; /* the width of half of your space or 50% */
+        float: left;
+    }
 }
 .gitButton{
     background:url(hoernled-1.png) no-repeat;
