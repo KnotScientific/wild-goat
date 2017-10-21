@@ -14,7 +14,6 @@ body {
 .relative {
     position: relative;
 padding-top: 100px;
-	    .form_wrapper {
         width: 200px; /* the width of half of your space or 50% */
         float: left;
     }
