@@ -11,6 +11,11 @@ body {
     position:absolute;
 }
 
+.vid{
+text-align: center;
+  width:100%;
+}
+
 .text1 {
 font-family: 'Libre Barcode 39 Text',bold;
     font-size: 4em;
