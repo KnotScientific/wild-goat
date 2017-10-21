@@ -14,6 +14,7 @@ body {
 .relative {
     position: relative;
 padding-top: 100px;
+float: left;
 
 }
 .gitButton{
