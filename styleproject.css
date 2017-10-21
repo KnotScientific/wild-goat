@@ -1,1 +1,232 @@
+.sidebar {
+    position:absolute;
+	text-align: left;
+	padding: 30px;
+	    padding-top: 10px;
+    padding-bottom: 10px;
+}
+body {
+	text-align: center;
+    background-color: #ffffff;
+}
+
+.vid{
+text-align: center;
+  width:100%;
+}
+
+.text1 {
+font-family: 'Libre Barcode 39 Text',bold;
+    font-size: 4em;
+    color: #031424;
+    opacity: 1.0;
+      animation: blinker 7s linear infinite;
+
+}
+.text2 {
+font-family: 'Libre Barcode 39 Text',bold;
+    font-size: 4em;
+    color: #031424;
+    opacity: 1.0;
+  animation: blinker2 7s linear infinite;
+}
+.text3 {
+    font-family: 'Libre Barcode 39 Text',bold;
+    font-size: 4em;
+    color: #031424;
+    opacity: 1.0;
+  animation: blinker3 7s linear infinite;
+}
+.text4 {
+    font-family: 'Libre Barcode 39 Text',bold;
+    font-size: 4em;
+    color: #031424;
+    opacity: 1.0;
+  animation: blinker4 7s linear infinite;
+}
+.text5 {
+    font-family: 'Libre Barcode 39 Text',bold;
+    font-size: 4em;
+    color: #031424;
+    opacity: 1.0;
+  animation: blinker5 7s linear infinite;
+
+}
+.text6 {
+    font-family: 'Libre Barcode 39 Text',bold;
+    font-size: 4em;
+    color: #031424;
+    opacity: 1.0;
+  animation: blinker6 7s linear infinite;
+
+}
+.text7 {
+    font-family: 'Libre Barcode 39 Text',bold;
+    font-size: 4em;
+    color: #031424;
+    opacity: 1.0;
+      animation: blinker7 7s linear infinite;
+
+}
+@keyframes blinker {  
+  13% { opacity: 0.1; }
+}
+@keyframes blinker2 {  
+  26% { opacity: 0.1; }
+}
+@keyframes blinker3 {  
+  39% { opacity: 0.1; }
+}
+@keyframes blinker4 {  
+  52% { opacity: 0.1; }
+}
+@keyframes blinker5 {  
+  65% { opacity: 0.1; }
+}
+@keyframes blinker6 {  
+  78% { opacity: 0.1; }
+}
+@keyframes blinker7 {  
+  91% { opacity: 0.1; }
+}
+.myButton{
+    background:url(hoernled-1.png) no-repeat;
+    cursor:pointer;
+    border:none;
+    width:30em;
+    height:30em;
+    background-size: contain;
+     outline:none;
+    -webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-o-user-select: none;
+user-select: none;
+}
+
+.myButton:active /*dfd*/
+{   
+    -webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-o-user-select: none;
+user-select: none;
+    background:url(hoernled-1.png) no-repeat;
+        width:29em; 
+    height:29em;
+    background-size: contain;
+     outline:none;
+
+}
+.homeButton{
+	    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+	    text-align: start;
+	background:none;
+	font-family: 'Libre Barcode 39 Text',bold;
+    font-size: 4em;
+    color: #031424;
+    cursor:pointer;
+    border:none;
+     outline:none;
+    -webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-o-user-select: none;
+user-select: none;
+}
+
+.homeButton:active /*dfd*/
+{   
+	    text-align: start;
+	background:none;
+	font-family: 'Libre Barcode 39 Text',bold;
+    font-size: 3em;
+    color: #031424;
+    -webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-o-user-select: none;
+user-select: none;
+     outline:none;
+
+}
+.homeButton:hover {
+    background-color: #000000; /* Green */
+    color: white;
+}
+.projButton{
+	    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+	    text-align: start;
+	background:none;
+	font-family: 'Libre Barcode 39 Text',bold;
+    font-size: 4em;
+    color: #031424;
+    cursor:pointer;
+    border:none;
+     outline:none;
+    -webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-o-user-select: none;
+user-select: none;
+}
+
+.projButton:active /*dfd*/
+{   
+	    text-align: start;
+	background:none;
+	font-family: 'Libre Barcode 39 Text',bold;
+    font-size: 3em;
+    color: #031424;
+    -webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-o-user-select: none;
+user-select: none;
+     outline:none;
+
+}
+.projButton:hover {
+    background-color: #000000; /* Green */
+    color: white;
+}
+.aboutButton{
+	    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+	    text-align: start;
+	background:none;
+	font-family: 'Libre Barcode 39 Text',bold;
+    font-size: 4em;
+    color: #031424;
+    cursor:pointer;
+    border:none;
+     outline:none;
+    -webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-o-user-select: none;
+user-select: none;
+}
+
+.aboutButton:active /*dfd*/
+{   
+	    text-align: start;
+	background:none;
+	font-family: 'Libre Barcode 39 Text',bold;
+    font-size: 3em;
+    color: #031424;
+    -webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-o-user-select: none;
+user-select: none;
+     outline:none;
+
+}
+.aboutButton:hover {
+    background-color: #000000; /* Green */
+    color: white;
+}
 
