@@ -65,7 +65,7 @@ outline:none
   display: inline-block;
   letter-spacing: 1px;
   position: relative;
-  font-size: 1.35rem;
+  font-size: 2 rem;
   transition: opacity .3s, z-index .3s step-end, -webkit-transform .3s;
   transition: opacity .3s, z-index .3s step-end, transform .3s;
   transition: opacity .3s,
@@ -79,10 +79,11 @@ outline:none
 
 .btn {
   outline:none;
-  width: 155px;
-  height: 48px;
-  line-height: 38px;
+  width: 205px;
+  height: 78px;
+  line-height: 68px;
 }
+
 
 
 button.btn.striped-shadow.blue:after, button.btn.striped-shadow.blue:before {
