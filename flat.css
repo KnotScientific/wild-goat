@@ -9,6 +9,12 @@ body {
 	text-align: center;
     background-color: #535EA5;
 }
+h1{
+font-family: 'Arvo', serif;
+}
+p{
+	font-family: 'Arvo', serif;
+}
 img {
 	width:auto;
 	max-width:25%;
