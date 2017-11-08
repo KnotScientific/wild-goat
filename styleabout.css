@@ -22,6 +22,11 @@ font-family: 'Libre Barcode 39 Text',bold;
       animation: blinker 7s linear infinite;
 
 }
+p{
+font-family: 'Arvo', serif;
+font-size: 4em;
+color: white;
+}
 
 .text2 {
 font-family: 'Libre Barcode 39 Text',bold;
