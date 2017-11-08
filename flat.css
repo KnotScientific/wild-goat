@@ -295,7 +295,7 @@ user-select: none;
 
 }
 .homeButton:hover {
-    background-color: #000000; /* Green */
+    background-color: #EF1635; /* Green */
     color: white;
 }
 .projButton{
@@ -332,7 +332,7 @@ user-select: none;
 
 }
 .projButton:hover {
-    background-color: #000000; /* Green */
+    background-color: #EF1635; /* Green */
     color: white;
 }
 .aboutButton{
@@ -369,7 +369,7 @@ user-select: none;
 
 }
 .aboutButton:hover {
-    background-color: #000000; /* Green */
+    background-color: #EF1635; /* Green */
     color: white;
 }
 
