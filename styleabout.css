@@ -24,7 +24,8 @@ font-family: 'Libre Barcode 39 Text',bold;
 }
 p{
 font-family: 'Arvo', serif;
-font-size: 4em;
+	text-align: center;
+font-size: 2em;
 color: white;
 }
 
