@@ -278,7 +278,7 @@ user-select: none;
 	background:none;
 	font-family: 'Libre Barcode 39 Text',bold;
     font-size: 4em;
-    color: #EF1635;
+    color: #2F2C5A;
     cursor:pointer;
     border:none;
      outline:none;
@@ -295,7 +295,7 @@ user-select: none;
 	background:none;
 	font-family: 'Libre Barcode 39 Text',bold;
     font-size: 3em;
-    color: #EF1635;
+    color: #2F2C5A;
     -webkit-user-select: none;
 -khtml-user-select: none;
 -moz-user-select: none;
@@ -305,7 +305,7 @@ user-select: none;
 
 }
 .homeButton:hover {
-    background-color: #EF1635; /* Green */
+    background-color: #2F2C5A; /* Green */
     color: white;
 }
 .projButton{
@@ -315,7 +315,7 @@ user-select: none;
 	background:none;
 	font-family: 'Libre Barcode 39 Text',bold;
     font-size: 4em;
-    color: #EF1635;
+    color: #2F2C5A;
     cursor:pointer;
     border:none;
      outline:none;
@@ -332,7 +332,7 @@ user-select: none;
 	background:none;
 	font-family: 'Libre Barcode 39 Text',bold;
     font-size: 3em;
-    color: #EF1635;
+    color: #2F2C5A;
     -webkit-user-select: none;
 -khtml-user-select: none;
 -moz-user-select: none;
@@ -342,7 +342,7 @@ user-select: none;
 
 }
 .projButton:hover {
-    background-color: #EF1635; /* Green */
+    background-color: #2F2C5A; /* Green */
     color: white;
 }
 .aboutButton{
@@ -352,7 +352,7 @@ user-select: none;
 	background:none;
 	font-family: 'Libre Barcode 39 Text',bold;
     font-size: 4em;
-    color: #EF1635;
+    color: #2F2C5A;
     cursor:pointer;
     border:none;
      outline:none;
@@ -369,7 +369,7 @@ user-select: none;
 	background:none;
 	font-family: 'Libre Barcode 39 Text',bold;
     font-size: 3em;
-    color: #EF1635;
+    color: #2F2C5A;
     -webkit-user-select: none;
 -khtml-user-select: none;
 -moz-user-select: none;
@@ -379,7 +379,7 @@ user-select: none;
 
 }
 .aboutButton:hover {
-    background-color: #EF1635; /* Green */
+    background-color: #2F2C5A; /* Green */
     color: white;
 }
 
