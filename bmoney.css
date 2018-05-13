@@ -1,1 +1,387 @@
 
+.sidebar {
+    position:absolute;
+	text-align: left;
+	padding: 30px;
+	    padding-top: 10px;
+    padding-bottom: 10px;
+}
+body {
+	text-align: center;
+    background-color: #CBCBCB;
+}
+h1{
+font-family: 'Arvo', serif;
+}
+p{
+	font-family: 'Arvo', serif;
+}
+img {
+	width:auto;
+	max-width:25%;
+	height:auto;
+}
+@import 'https://fonts.googleapis.com/css?family=Bungee+Shade';
+
+*, :after, :before {
+  box-sizing: border-box;
+}
+
+:focus {
+  outline: none;
+}
+
+.rela {
+  margin: 3rem auto;
+  max-width: 660px;
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  outline:none;
+}
+button {
+  overflow: visible;
+  border: 0;
+  padding: 0;
+  margin: 1.8rem;
+  outline:none;
+}
+.btn.striped-shadow span {
+  display: block;
+  position: relative;
+  z-index: 2;
+  border: 5px solid;
+outline:none
+}
+
+.btn.striped-shadow.blue span {
+  border-color: #000000;
+  background: #FF0000;
+  color: #000000;
+  outline:none;
+}
+.btn.striped-shadow.dark span {
+  border-color: #000000;
+  background: #FFFFFF;
+  color: #000000;
+}
+
+.btn {
+  outline:none;
+  font-family: 'Bungee Shade', sans-serif;
+  height: 80px;
+  line-height: 65px;
+  display: inline-block;
+  letter-spacing: 1px;
+  position: relative;
+  font-size: 2rem;
+  transition: opacity .3s, z-index .3s step-end, -webkit-transform .3s;
+  transition: opacity .3s, z-index .3s step-end, transform .3s;
+  transition: opacity .3s,
+    z-index .3s step-end,
+    transform .3s,
+    -webkit-transform .3s;
+  z-index: 1;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.btn {
+  outline:none;
+  width: 205px;
+  height: 78px;
+  line-height: 68px;
+}
+
+
+
+button.btn.striped-shadow.blue:after, button.btn.striped-shadow.blue:before {
+  background-image: linear-gradient(
+    135deg,
+    transparent 0,
+    transparent 5px,
+    #000000 5px,
+    #000000 10px,
+    transparent 10px
+  );
+}
+
+button.btn.striped-shadow.dark:after, button.btn.striped-shadow.dark:before {
+  background-image: linear-gradient(
+    135deg,
+    transparent 0,
+    transparent 5px,
+    #000000 5px,
+    #000000 10px,
+    transparent 10px
+  );
+}
+
+button.btn.striped-shadow:hover:before {
+  max-height: calc(100% - 10px);
+}
+
+button.btn.striped-shadow:after {
+  width: calc(100% - 4px);
+  height: 8px;
+  left: -10px;
+  bottom: -9px;
+  background-size: 15px 8px;
+  background-repeat: repeat-x;
+}
+button.btn.striped-shadow:after, button.btn.striped-shadow:before {
+  content: '';
+  display: block;
+  position: absolute;
+  z-index: 1;
+  transition: max-height .3s, width .3s, -webkit-transform .3s;
+  transition: transform .3s, max-height .3s, width .3s;
+  transition: transform .3s, max-height .3s, width .3s, -webkit-transform .3s;
+}
+
+.btn.striped-shadow:hover {
+  -webkit-transform: translate(-12px, 12px);
+  -ms-transform: translate(-12px, 12px);
+  transform: translate(-12px, 12px);
+  z-index: 3;
+}
+
+button.btn.striped-shadow:hover:after, button.btn.striped-shadow:hover:before {
+  -webkit-transform: translate(12px, -12px);
+  -ms-transform: translate(12px, -12px);
+  transform: translate(12px, -12px);
+}
+button.btn.striped-shadow:before {
+  width: 8px;
+  max-height: calc(100% - 5px);
+  height: 100%;
+  left: -12px;
+  bottom: -5px;
+  background-size: 8px 15px;
+  background-repeat: repeat-y;
+  background-position: 0 100%;
+}
+
+
+.vid{
+text-align: center;
+  width:100%;
+}
+
+.text1 {
+font-family: 'Libre Barcode 39 Text',bold;
+    font-size: 4em;
+    color: #031424;
+    opacity: 1.0;
+      animation: blinker 7s linear infinite;
+
+}
+.text2 {
+font-family: 'Libre Barcode 39 Text',bold;
+    font-size: 4em;
+    color: #031424;
+    opacity: 1.0;
+  animation: blinker2 7s linear infinite;
+}
+.text3 {
+    font-family: 'Libre Barcode 39 Text',bold;
+    font-size: 4em;
+    color: #031424;
+    opacity: 1.0;
+  animation: blinker3 7s linear infinite;
+}
+.text4 {
+    font-family: 'Libre Barcode 39 Text',bold;
+    font-size: 4em;
+    color: #031424;
+    opacity: 1.0;
+  animation: blinker4 7s linear infinite;
+}
+.text5 {
+    font-family: 'Libre Barcode 39 Text',bold;
+    font-size: 4em;
+    color: #031424;
+    opacity: 1.0;
+  animation: blinker5 7s linear infinite;
+
+}
+.text6 {
+    font-family: 'Libre Barcode 39 Text',bold;
+    font-size: 4em;
+    color: #031424;
+    opacity: 1.0;
+  animation: blinker6 7s linear infinite;
+
+}
+.text7 {
+    font-family: 'Libre Barcode 39 Text',bold;
+    font-size: 4em;
+    color: #031424;
+    opacity: 1.0;
+      animation: blinker7 7s linear infinite;
+
+}
+@keyframes blinker {  
+  13% { opacity: 0.1; }
+}
+@keyframes blinker2 {  
+  26% { opacity: 0.1; }
+}
+@keyframes blinker3 {  
+  39% { opacity: 0.1; }
+}
+@keyframes blinker4 {  
+  52% { opacity: 0.1; }
+}
+@keyframes blinker5 {  
+  65% { opacity: 0.1; }
+}
+@keyframes blinker6 {  
+  78% { opacity: 0.1; }
+}
+@keyframes blinker7 {  
+  91% { opacity: 0.1; }
+}
+.myButton{
+    background:url(hoernled-1.png) no-repeat;
+    cursor:pointer;
+    border:none;
+    width:30em;
+    height:30em;
+    background-size: contain;
+     outline:none;
+    -webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-o-user-select: none;
+user-select: none;
+}
+
+.myButton:active /*dfd*/
+{   
+    -webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-o-user-select: none;
+user-select: none;
+    background:url(hoernled-1.png) no-repeat;
+        width:29em; 
+    height:29em;
+    background-size: contain;
+     outline:none;
+
+}
+.homeButton{
+	    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+	    text-align: start;
+	background:none;
+	font-family: 'Libre Barcode 39 Text',bold;
+    font-size: 4em;
+    color: #EF1635;
+    cursor:pointer;
+    border:none;
+     outline:none;
+    -webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-o-user-select: none;
+user-select: none;
+}
+
+.homeButton:active /*dfd*/
+{   
+	    text-align: start;
+	background:none;
+	font-family: 'Libre Barcode 39 Text',bold;
+    font-size: 3em;
+    color: #EF1635;
+    -webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-o-user-select: none;
+user-select: none;
+     outline:none;
+
+}
+.homeButton:hover {
+    background-color: #EF1635; /* Green */
+    color: white;
+}
+.projButton{
+	    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+	    text-align: start;
+	background:none;
+	font-family: 'Libre Barcode 39 Text',bold;
+    font-size: 4em;
+    color: #EF1635;
+    cursor:pointer;
+    border:none;
+     outline:none;
+    -webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-o-user-select: none;
+user-select: none;
+}
+
+.projButton:active /*dfd*/
+{   
+	    text-align: start;
+	background:none;
+	font-family: 'Libre Barcode 39 Text',bold;
+    font-size: 3em;
+    color: #EF1635;
+    -webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-o-user-select: none;
+user-select: none;
+     outline:none;
+
+}
+.projButton:hover {
+    background-color: #EF1635; /* Green */
+    color: white;
+}
+.aboutButton{
+	    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+	    text-align: start;
+	background:none;
+	font-family: 'Libre Barcode 39 Text',bold;
+    font-size: 4em;
+    color: #EF1635;
+    cursor:pointer;
+    border:none;
+     outline:none;
+    -webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-o-user-select: none;
+user-select: none;
+}
+
+.aboutButton:active /*dfd*/
+{   
+	    text-align: start;
+	background:none;
+	font-family: 'Libre Barcode 39 Text',bold;
+    font-size: 3em;
+    color: #EF1635;
+    -webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-o-user-select: none;
+user-select: none;
+     outline:none;
+
+}
+.aboutButton:hover {
+    background-color: #EF1635; /* Green */
+    color: white;
+}
+
+
