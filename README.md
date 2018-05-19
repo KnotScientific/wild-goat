@@ -1,24 +1,2 @@
-
-<html>
-
-<head>
-
-<title>
-
-A Simple HTML Document
-
-</title>
-
-</head>
-
-<body>
-
-<p>This is a very simple HTML document</p>
-
-<p>It only has two paragraphs</p>
-
-<p>It only has two paragraphs</p>
-
-</body>
-
-</html>
+## [wildgoat.me](http://www.wildgoat.me)
+This is my personal website hosted on github. It contains the HTML,CSS and image files present in the website.
